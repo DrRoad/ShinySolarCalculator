@@ -1,0 +1,10 @@
+Package: suncalculator
+Version: 0.1
+Date: 2/1/2016
+Title: Solar Energy Calculator
+Description: Provide functions for calculating Solar Energy and finding optimal
+    angles
+Author: mlguys <info@mlguys.com>
+Maintainer: mlguys <info@mlguys.com>
+License: MIT + file LICENSE
+RoxygenNote: 5.0.1
